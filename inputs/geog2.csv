@@ -1,0 +1,12 @@
+replan_id
+replan_id,geo_name,geo_stusab,geo_sumlev,geo_state,geo_county,geo_geoid,population
+2063,"Hettinger County, North Dakota",nd,50,38,41,05000US38041,2639
+2487,"Campbell County, Tennessee",tn,50,47,13,05000US47013,40008
+1714,"Boyd County, Nebraska",ne,50,31,15,05000US31015,2006
+836,"Warrick County, Indiana",in,50,18,173,05000US18173,61427
+2419,"Brookings County, South Dakota",sd,50,46,11,05000US46011,33435
+833,"Vigo County, Indiana",in,50,18,167,05000US18167,108099
+2477,"Union County, South Dakota",sd,50,46,127,05000US46127,14842
+1358,"St. Joseph County, Michigan",mi,50,26,149,05000US26149,60923
+3081,"Pleasants County, West Virginia",wv,50,54,73,05000US54073,7612
+2383,"Colleton County, South Carolina",sc,50,45,29,05000US45029,37884

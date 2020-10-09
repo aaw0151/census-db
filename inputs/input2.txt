@@ -1,0 +1,23 @@
+age1.csv age
+geog1.csv geography
+disability1.csv disability
+
+DISPLAY()
+INSERT((1574,"Greene County, Missouri",mo,50,29,77,05000US29077,285449),geography)
+INSERT((05000US37109,4144,17634,12444),age)
+INSERT(("Denton County, Texas",16545,9807,23123,28354,11400,19590),disability)
+INSERT((2391,"Greenville County, South Carolina",sc,50,45,45,05000US45045,482191),geography)
+UPDATE((05000US30091,2350,7910,8060),age)
+UPDATE(("Denton County, Texas",16545,9807,23123,28354,11400,21036),disability)
+UPDATE((2518,"Haywood County, Tennessee",tn,50,47,75,05000US47075,24235),geography)
+SELECT((05000US20063,166,599,655),age)
+SELECT((*,*,mo,*,*,*,*,*),geography)
+SELECT(("Bibb County, Alabam",575,507,1008,1825,731,1212),disability)
+SELECT((*,*,ny,*,*,*,*,*),geography)
+DELETE(("Concordia Parish, Louisiana",740,400,745,1407,538,779),disability)
+DELETE((05000US37109,*,*,*),age)
+DELETE((770,"Elkhart County, Indiana",in,50,18,39,05000US18039,201640),geography)
+DELETE((*,*,al,*,*,*,*,*),geography)
+DISPLAY()
+WRITE()
+

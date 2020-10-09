@@ -1,0 +1,19 @@
+age2.csv age
+disability2.csv disability
+geog2.csv geography
+
+DISPLAY()
+INSERT(("Denton County, Texas",16545,9807,23123,28354,11400,19590),disability)
+SELECT((05000US12047,651,2713,2211),age)
+UPDATE((2419,"Brookings County, South Dakota",sd,50,46,11,05000US46011,5555),geography)
+INSERT((05000US34015,16193,66997,41176),age)
+UPDATE((05000US27012,100,100,100),age)
+SELECT((*,*,*,*,46,*,*,*),geography)
+DELETE((*,"Pleasants County, Virginia",va,*,*,*,*,*),geography)
+DELETE(("Grundy County, Missouri",*,*,*,*,*,*),disability)
+SELECT(("Grundy County, Missouri",460,262,450,890,340,461),disability)
+INSERT((836,"Washington County, Indiana",in,50,18,173,05000US18173,61427),geography)
+UPDATE(("Lake of the Woods County, Minnesota",183,105,131,273,5,5),disability)
+DELETE((*,*,*,*),age)
+DISPLAY()
+WRITE()

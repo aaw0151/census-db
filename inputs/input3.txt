@@ -1,0 +1,5 @@
+age2.csv age
+geog2.csv geography
+disability2.csv disability
+
+DISPLAY()
