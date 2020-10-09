@@ -25,6 +25,7 @@ organization.cpp
 main.h
 main.cpp
 makefile
+(all input files and .csv files)
 
 Type "make" into the terminal to create the executable "storage.exe". Type "make clean" to remove all "*.o" and "storage.exe" files. Type "./storage.exe" into the terminal to execute the program. All input file names are inputted during runtime.
 
